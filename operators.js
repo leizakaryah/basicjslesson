@@ -1,0 +1,5 @@
+// assignment =
+// arithmetic + - * / %
+// comparison == != <= >= < >
+// logical || && !
+
